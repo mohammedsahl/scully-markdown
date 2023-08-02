@@ -16,4 +16,4 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Scully
 
-Run `npm run scully` to generate static files for the blog. The build artifacts will be stored in the `dist/static/` directory. Then run `npm run start` to run the angular application with the static files.
+Run `npm run scully` to generate static files for the blog. The build artifacts will be stored in the `dist/static/` directory. Then run `ng serve` to run the angular application with the static files.
